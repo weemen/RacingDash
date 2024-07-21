@@ -13,5 +13,5 @@ Once you have installed the dash then go to you simhub directory, in my case it'
 1. Click on DashTemplates
 2. Click on JavascriptExtensions
 3. Open the leon.js and here you can update the button and color mapping
-4. <More explaination needed here >
+4. ...More explaination needed here
 
